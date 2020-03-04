@@ -6,7 +6,7 @@
 
 Registrants of the meeting have a chance to win a 1-year All products pack personal license from JetBrains.
 
-To be nominated, make a contribution(s) in a period from March, 9th till June, 9th 2020 to any repository in one or both of GitHub organizations: [tango-controls](https://github.com/tango-controls) or [waltz-controls](https://github.com/waltz-controls). Contribution can be anything: from making PR that fixes a typo or PR that performs a full scale refactoring or just creating an issue.
+To be nominated, make a contribution(s) in a period from March, 9th till June, 9th 2020 to any repository in one or both of GitHub organizations: [tango-controls](https://github.com/tango-controls) or [waltz-controls](https://github.com/waltz-controls). Contribution can be everything: from making PR that fixes a typo or PR that performs a full scale refactoring or just creating an issue.
 
 Please create an issue with a link to your contribution in this repository to participate in the contest.
 
