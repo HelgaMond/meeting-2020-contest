@@ -10,7 +10,7 @@ To be nominated, make a contribution(s) in a period from March, 9th till June, 9
 
 Please create an issue with a link to your contribution in this repository to participate in the contest.
 
-The jury will choose 2 contributions to be awarded. Another 1 contribution will be chosen by the community. Please thumb up an issue with a contribution that deserves the prize!
+The jury will choose 1 contribution to be awarded. Another 1 contribution will be chosen by the community. Finally the last one will be picked up completely randomly! Please thumb up an issue with a contribution that deserves the prize!
 
 ## How to participate
 
