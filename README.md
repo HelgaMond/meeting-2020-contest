@@ -1,12 +1,12 @@
-# Tango Controls Users meeting 2020 contest
+# Tango Controls Users meeting contest
  
 ## Make a contribution and get All products pack from JetBrains for free!
 
-**From March, 9th till June, 9th 2020.**
+**From Spring 2020 till Spring 2021.**
 
 Registrants of the meeting have a chance to win a 1-year All products pack personal license from JetBrains.
 
-To be nominated, make a contribution(s) in a period from March, 9th till June, 9th 2020 to any repository in one or both of GitHub organizations: [tango-controls](https://github.com/tango-controls) or [waltz-controls](https://github.com/waltz-controls). Contribution can be everything: from making PR that fixes a typo or PR that performs a full scale refactoring or just creating an issue.
+To be nominated, make a contribution(s) in a period from Spring 2020 till Spring 2021 to any repository in one or both of GitHub organizations: [tango-controls](https://github.com/tango-controls) or [waltz-controls](https://github.com/waltz-controls). Contribution can be everything: from making PR that fixes a typo or PR that performs a full scale refactoring or just creating an issue.
 
 Please create an issue with a link to your contribution in this repository to participate in the contest.
 
@@ -14,7 +14,7 @@ The jury will choose 1 contribution to be awarded. Another 1 contribution will b
 
 ## How to participate
 
-1. Register for the [Tango Controls meeting 2020](https://indico.esrf.fr/indico/event/41/registration/signin?returnURL=https%3A%2F%2Findico.esrf.fr%2Findico%2Fevent%2F41%2Fregistration%2Fregister).
+1. Register for the [Tango Controls meeting](https://indico.esrf.fr/indico/event/41/registration/signin?returnURL=https%3A%2F%2Findico.esrf.fr%2Findico%2Fevent%2F41%2Fregistration%2Fregister).
 
 2. Contribute to any repository in one or both of GitHub organizations: [tango-controls](https://github.com/tango-controls) or [waltz-controls](https://github.com/waltz-controls):
 
